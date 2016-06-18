@@ -1,7 +1,7 @@
-# Haptik-Assignment
+# AndroidClientSDK
 The implementation for the Haptik Android assignment.
-Apart from the assignement, the codebase strives to provide the core Client framework, which can be used to abstract the tasks
-like, -
+The SDK/codebase strives to provide the core Client framework, which can be used to abstract the tasks
+like -
 1.Backend/web services integration
 2.Credential store
 3.Persistence store etc.
