@@ -1,5 +1,5 @@
-# AndroidClientSDK
-The SDK/codebase strives to provide the core Client framework, which can be used to abstract the tasks
+# Android SDK
+The SDK/codebase strives to provide the core framework, which can be used to abstract the tasks
 like -
 1.Backend/web services integration
 2.Credential store
